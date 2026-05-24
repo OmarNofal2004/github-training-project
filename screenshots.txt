@@ -1,0 +1,10 @@
+Screenshots
+
+This file is used as a placeholder for project screenshots.
+Screenshots will include:
+- Home screen
+- GitHub repository
+- Commits page
+- Branch page
+- Pull Request page
+- Issue page

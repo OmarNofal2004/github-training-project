@@ -54,12 +54,6 @@ The project is organized into packages:
 
 
 
-\## Screenshots
-
-Screenshots will be added after running the application.
-
-
-
 \## How to Run
 
 1\. Clone the repository.

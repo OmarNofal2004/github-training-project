@@ -1,0 +1,12 @@
+Project Notes
+
+This Android project was used for Git and GitHub training.
+The project includes organized folders, Java classes, XML layouts, and Firebase integration.
+
+The main purpose of this repository is to practice:
+- Git commands
+- GitHub repository management
+- Commits
+- Branches
+- Pull Requests
+- Issues

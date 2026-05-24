@@ -10,3 +10,4 @@ The main purpose of this repository is to practice:
 - Branches
 - Pull Requests
 - Issues
+A design update branch was created to practice Git branching and merging.

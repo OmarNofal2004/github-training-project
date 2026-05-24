@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/activity_login.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/activity_profile.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/activity_recipe_details.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/activity_recipe_details.xml"
+    },
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/activity_update_recipe.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/activity_update_recipe.xml"
+    },
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/item_recipe.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/item_recipe.xml"
+    },
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/item_recipe_profile.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/item_recipe_profile.xml"
+    },
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/activity_signup.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/activity_home.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.moumn.recipebook.app-mergeDebugResources-43:/layout/activity_add_recipe.xml",
+        "source": "com.moumn.recipebook.app-main-46:/layout/activity_add_recipe.xml"
+    }
+]

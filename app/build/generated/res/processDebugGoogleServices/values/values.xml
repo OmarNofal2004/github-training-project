@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">107235993364</string>
+    <string name="google_api_key" translatable="false">AIzaSyA91wQrXFB7VtBwq3rbIlc8LSq-u_obgk8</string>
+    <string name="google_app_id" translatable="false">1:107235993364:android:4abee778c9e2bd6d2d4401</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA91wQrXFB7VtBwq3rbIlc8LSq-u_obgk8</string>
+    <string name="google_storage_bucket" translatable="false">recipe-book-aeb69.firebasestorage.app</string>
+    <string name="project_id" translatable="false">recipe-book-aeb69</string>
+</resources>

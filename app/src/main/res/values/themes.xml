@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base Theme -->
+    <style name="Base.Theme.RecipeBook" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorButtonNormal">@android:color/transparent</item>
+        <item name="buttonStyle">@style/NoDefaultButton</item>
+    </style>
+
+    <!-- Actual App Theme -->
+    <style name="Theme.RecipeBook" parent="Base.Theme.RecipeBook">
+        <item name="colorButtonNormal">@android:color/transparent</item>
+        <item name="buttonStyle">@style/NoDefaultButton</item>
+    </style>
+
+    <!-- Custom Button Style -->
+    <style name="NoDefaultButton" parent="Widget.Material3.Button">
+        <item name="android:backgroundTint">@null</item>
+        <item name="android:background">@null</item>
+        <item name="backgroundTint">@null</item>
+        <item name="rippleColor">@android:color/transparent</item>
+        <item name="elevation">0dp</item> <!-- لإزالة الظل لو حابب -->
+    </style>
+
+</resources>
